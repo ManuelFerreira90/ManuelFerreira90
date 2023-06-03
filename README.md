@@ -8,8 +8,7 @@
 </div>
 
 
-
-
+    
 
 <div align="left"><br>
   <h3>Tecnologias que uso e estou aprendendo</h3>
