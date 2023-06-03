@@ -4,7 +4,7 @@
 <div align="left">
     <a href="https://github.com/ManuelFerreira90"> 
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ManuelFerreira90&count_private=true&include_all_commits=true&show_icons=true&theme=dracula"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelFerreira90&theme=dracula&&layout=compat"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelFerreira90&theme=dracula&&layout=compact"/>
 </div>
 
 
